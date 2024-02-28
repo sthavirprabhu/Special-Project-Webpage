@@ -1,0 +1,383 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    margin: 0px;
+    background-color:#f7f2f2;
+    
+}
+a{
+    text-decoration :none
+}
+a:link{
+    color:#ffffff;
+}
+
+/*a:old*/
+/*a:clicked*/
+/*a:seen{*/
+a:visited{
+    color: #ffffff;
+}
+
+
+.bodyimg p{
+    color:#f7f2f2;
+    font-size: 150px;
+    font-family: impact;
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translate(-40%,-50%);
+}
+.bodyimg h3{
+    color:#f7f2f2;
+    font-family: fantasy;
+    font-size: 30px;
+    width: 1600px;
+    position: absolute;
+    top:40%;
+    left:80%;
+    transform: translate(-40%, -40%);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.ProblemGrid{
+    
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin: 100px;
+    font-family: sans-serif;
+    
+}
+
+/*Sub Divisions Bellow*/
+
+.ecofriendlymechanicalfarmer {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    height: 410px;
+    font-family: fantasy;
+    
+}
+
+.ecofriendlymechanicalfarmer:hover{
+
+    transform: scale(1.2)
+
+}
+
+.gassensorbot {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    height: 410px;
+    font-family: fantasy;
+    
+}
+
+.gassensorbot:hover {
+
+    transform: scale(1.2)
+
+}
+
+.colorsorter {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    height: 410px;
+    font-family: fantasy;
+  
+}
+
+.colorsorter:hover {
+
+    transform: scale(1.2)
+
+}
+
+.Problem {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:1100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-image: round;
+  
+}
+
+.Project {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:1100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+.Summary {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:450px;
+    height: 1550px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+.TheProblem{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 400px;
+    font-family: sans-serif;
+    
+}
+
+.TheProject{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 125px;
+    font-family: sans-serif;
+    
+}
+
+.Step1{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 85px;
+    font-family: sans-serif;
+    
+}
+
+.Step2{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 85px;
+    font-family: sans-serif;
+    
+}
+
+.Step3{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 85px;
+    font-family: sans-serif;
+    
+}
+
+.Advantages{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 200px;
+    font-family: sans-serif;
+    
+}
+
+.MarketsofProduct{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    height: 85px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.bodyimg1 p{
+    color:#f7f2f2;
+    font-size: 100px;
+    font-family: impact;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-20%,-50%);
+}
+
+.ecofriendlymechanicalfarmerActual {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:2000px;
+    height: 310px;
+    font-family: fantasy;
+    
+}
+
+.ecofriendlymechanicalfarmerActual:hover{
+
+    transform: scale(1.2)
+
+}
+
+.Summary1 {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:1800px;
+    height: 2100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+.bodyimg2 p{
+    color:#f7f2f2;
+    font-size: 100px;
+    font-family: impact;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-20%,-50%);
+}
+
+.gassensorbotActual {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:2000px;
+    height: 310px;
+    font-family: fantasy;
+    
+}
+
+.gassensorbotActual:hover{
+
+    transform: scale(1.2)
+
+}
+
+.Summary2 {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:1800px;
+    height: 700px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bodyimg3 p{
+    color:#f7f2f2;
+    font-size: 100px;
+    font-family: impact;
+    position: absolute;
+    top: 50%;
+    left: 42.5%;
+    transform: translate(-20%,-50%);
+}
+
+.colorsorterActual {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:2000px;
+    height: 310px;
+    font-family: fantasy;
+    
+}
+
+.colorsorterActual:hover{
+
+    transform: scale(1.2)
+
+}
+
+.Summary3 {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:1800px;
+    height: 700px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+.Advantages1 {
+      
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:1700px;
+    height: 700px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-image: round;
+  
+}
+
+
+
+.origami {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+ .origami:hover{ 
+/*.origami : mouseover{*/
+/*.origami:link{*/
+/*origami:hover{*/
+
+    transform: scale(1.2);
+}
